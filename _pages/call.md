@@ -43,7 +43,7 @@ induction, and concept learning.
 
 # instructions
 
-Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in the workshop proceedings published by Springer Nature (tentative).
+Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceedings published by Springer Nature (tentative).
 
 All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
 
