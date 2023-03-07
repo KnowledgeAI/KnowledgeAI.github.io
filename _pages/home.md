@@ -55,7 +55,7 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
 
 # contact
 
-For any questions, please contact us at kbcg.workshop@gmail.com.
+For any questions, please contact us at [kbcg.workshop@gmail.com](mailto:kbcg.workshop@gmail.com).
 
 # sponsors
 

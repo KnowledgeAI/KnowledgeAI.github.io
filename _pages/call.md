@@ -53,4 +53,4 @@ The submission website is on **[OpenReview]()**. Camera-ready versions are due b
 
 # questions?
 
-Contact us at kbcg.workshop@gmail.com.
+Contact us at [kbcg.workshop@gmail.com](mailto:kbcg.workshop@gmail.com).
