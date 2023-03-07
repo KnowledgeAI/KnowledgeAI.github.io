@@ -49,7 +49,7 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-The submission website is on **[OpenReview]()**. Camera-ready versions are due by **June 15, 2023**, and will be posted on the workshop website.
+The submission website is on **[OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2023/Workshop/KBCG)**. Camera-ready versions are due by **June 15, 2023**, and will be posted on the workshop website.
 
 # questions?
 
