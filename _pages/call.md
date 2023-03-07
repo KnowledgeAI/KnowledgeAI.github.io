@@ -24,7 +24,7 @@ The goal of this workshop is to provide a platform for researchers to present th
   different domains or modalities to improve generalization?
 - (Core topic) Reasoning for compositional generalization: How can we use reasoning to understand and
   generate novel combinations of concepts?
-- (Core topic)Applications of knowledge-based compositional generalization: How can knowledge-based
+- (Core topic) Applications of knowledge-based compositional generalization: How can knowledge-based
   compositional generalization improve performance in specific application domains such as natural language
   processing, computer vision, and control systems?
 - Learning compositional representations
