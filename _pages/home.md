@@ -16,7 +16,6 @@ The ability to make **generalizations** based on different actions or concepts, 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community.At our workshop, we will bring together researchers from these various subfields to discuss the success of score-based methods, and identify common challenges across different research areas. We will also explore the potential for applying score-based methods to even more real-world applications, including in computer vision, signal processing, and computational chemistry. By doing so, we hope to folster collaboration among researchers and build a more cohesive research community focused on score-based methods.
 
 This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Cape Town, South Africa . The session will cover invited talks, contributed talks, posters, and a panel discussion.
- 
 
 # key dates
 
@@ -28,10 +27,10 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
 
 <div class="row p-2 g-2">
       <div class="col-sm-3">
-          {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/xx.png" %}
+          {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/robot.jpg" %}
       </div>
       <div class="col-sm-3">
-          {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/xx.png" %}
+          {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/robot.jpg" %}
       </div>
   </div>
   <br>
@@ -57,7 +56,6 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
 # contact
 
 For any questions, please contact us at kbcg.workshop@gmail.com.
- 
 
 # sponsors
 
