@@ -49,8 +49,6 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-**Dual submission policy**: If a paper has previously appeared in a journal, workshop, or conference (including the NeurIPS 2022 conference), it should be extended in order to be accepted at our workshop. If a paper is currently under review (e.g. in AISTATS 2023 or ICLR 2023), it can still be submitted to this workshop
-
 The submission website is on **[OpenReview]()**. Camera-ready versions are due by **June 15, 2023**, and will be posted on the workshop website.
 
 # questions?
