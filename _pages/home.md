@@ -7,6 +7,9 @@ nav_title: Home
 permalink: /
 description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, meta-learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 ---
+
+<h5 style="text-align:center;"><a href="https://forms.gle/RGtpZXSkxgfkxMva6">Call for Reviewers [click here to apply]</a></h5>
+
 # Introduction
 
 We are excited to announce the first International Workshop on Knowledge-Based Compositional Generalization (KBCG) held in conjunction with IJCAI 2023. The workshop aims to bring together researchers from academia and industry to discuss the latest advances and challenges in the area of knowledge-based compositional generalization in AI. Compositional generalization, the ability to understand and generate new combinations of previously learned concepts, is a fundamental problem in AI. It is particularly important in areas such as natural language understanding, reinforcement learning, and knowledge representation. However, achieving compositional generalization remains a challenging problem in AI.
