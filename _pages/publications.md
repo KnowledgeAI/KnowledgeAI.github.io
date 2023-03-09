@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /accepted/
-title: accepted papers
+title: Accepted papers
 years: [2023]
 nav: true
 nav_order: 2
