@@ -13,30 +13,20 @@ We are excited to announce the first International Workshop on Knowledge-Based C
 
 The ability to make **generalizations** based on different actions or concepts, known as systematic compositionality, is crucial for human learning and understanding. It allows us to understand and learn new things, even when we have limited experience. In human daily life, we often encounter problems that require us to be able to make generalizations based on compositions of different actions or concepts. This ability is critical for how we are able to learn and understand new things, even when we have limited experience. However, while there have been significant advances in the language capabilities of machines, they still struggle with generalization and require large amounts of training data. These machine learning techniques, like neural networks, have been criticized in the past for lacking systematic compositionality. For a recent survey on compositional generalization, please refer to: [https://arxiv.org/abs/2302.01067](https://arxiv.org/abs/2302.01067). Some topics of interest include but not limited to:
 
-- (Core topic) Representation learning for compositional generalization: How can we learn representations that are both expressive and amenable to generalization?
-- (Core topic) Meta-learning for compositional generalization: How can we leverage past experience to improve
-  generalization to novel compositions?
-- (Core topic) Transfer learning for compositional generalization: How can we transfer knowledge between
-  different domains or modalities to improve generalization?
-- (Core topic) Reasoning for compositional generalization: How can we use reasoning to understand and
-  generate novel combinations of concepts?
-- (Core topic) Applications of knowledge-based compositional generalization: How can knowledge-based
-  compositional generalization improve performance in specific application domains such as natural language
-  processing, computer vision, and control systems?
-- Learning compositional representations
-- Combining knowledge from multiple sources
-- Transfer learning and domain adaptation
-- Compositional generalization in foundation models
-- Compositional generalization in natural language understanding
-- Compositional generalization in reinforcement learning
-- Compositional generalization in knowledge representation and reasoning
-- Relational machine Learning
+- Representational learning, Meta-learning, Transfer learning for compositional generalization
+- Reasoning, commonsense and knowledge representation for compositional generalization
+- Applications of compositional generalization such as foundation models, natural language
+  processing, computer vision, and control systems
+- Methods to learn compositional representations
+- Combining knowledge from multiple sources and modalities
+- Relational and causal machine Learning
 - Using external knowledge for efficient machine learning
 - Symbol grounding and Abstractions
+- Neuro-inspired AI
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
 
-We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community.
+We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community from AI, cognitive sciences and neurscience to discuss novel approaches such as representation learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph and data visualization.
 
 This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Cape Town, South Africa . The session will cover invited talks, contributed talks, posters, and a panel discussion.
 

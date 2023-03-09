@@ -17,26 +17,17 @@ We invite researchers in AI, machine learning, statistics, cognitive sciences an
 
 The goal of this workshop is to provide a platform for researchers to present their latest work on knowledge-based compositional generalization and to foster discussions on the challenges and opportunities in this area. We invite researchers in AI, machine learning, statistics, cognitive sciences and neuroscience to submit their papers, posters, and demonstrations on any topic related to knowledge-based compositional generalization, including but not limited to:
 
-- (Core topic) Representation learning for compositional generalization: How can we learn representations that are both expressive and amenable to generalization?
-- (Core topic) Meta-learning for compositional generalization: How can we leverage past experience to improve
-  generalization to novel compositions?
-- (Core topic) Transfer learning for compositional generalization: How can we transfer knowledge between
-  different domains or modalities to improve generalization?
-- (Core topic) Reasoning for compositional generalization: How can we use reasoning to understand and
-  generate novel combinations of concepts?
-- (Core topic) Applications of knowledge-based compositional generalization: How can knowledge-based
-  compositional generalization improve performance in specific application domains such as natural language
-  processing, computer vision, and control systems?
-- Learning compositional representations
-- Combining knowledge from multiple sources
-- Transfer learning and domain adaptation
-- Compositional generalization in foundation models
-- Compositional generalization in natural language understanding
-- Compositional generalization in reinforcement learning
-- Compositional generalization in knowledge representation and reasoning
-- Relational machine Learning
+- Representational learning, Meta-learning, Transfer learning for compositional generalization
+- Reasoning, commonsense and knowledge representation for compositional generalization
+- Applications of compositional generalization such as foundation models, natural language
+  processing, computer vision, and control systems
+- Methods to learn compositional representations
+- Combining knowledge from multiple sources and modalities
+- Relational and causal machine Learning
 - Using external knowledge for efficient machine learning
 - Symbol grounding and Abstractions
+- Neuro-inspired AI
+- Compositionality in reinforcement learning
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
 
