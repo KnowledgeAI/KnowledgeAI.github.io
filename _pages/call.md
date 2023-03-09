@@ -27,6 +27,7 @@ The goal of this workshop is to provide a platform for researchers to present th
 - Using external knowledge for efficient machine learning
 - Symbol grounding and Abstractions
 - Neuro-inspired AI
+- Neuro-symbolic AI
 - Compositionality in reinforcement learning
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
