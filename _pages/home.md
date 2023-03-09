@@ -5,7 +5,7 @@ home_title: The 1st International Workshop on Knowlege-Based Compositional Gener
 subtitle: Held in conjunction with IJCAI 2023 
 nav_title: Home
 permalink: /
-description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
+description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, meta-learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 ---
 # Introduction
 
@@ -28,7 +28,7 @@ The ability to make **generalizations** based on different actions or concepts, 
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
 
-We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community from AI, cognitive sciences and neurscience to discuss novel approaches such as representation learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph and data visualization.
+We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community from AI, cognitive sciences and neuroscience to discuss novel approaches such as representation learning, meta-learning transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 
 This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Cape Town, South Africa . The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
