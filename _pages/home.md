@@ -7,7 +7,6 @@ nav_title: Home
 permalink: /
 description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, meta-learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 ---
-
 <h5 style="text-align:center;"><a href="https://forms.gle/RGtpZXSkxgfkxMva6">Call for Reviewers [click here to apply]</a></h5>
 
 # Introduction
@@ -38,8 +37,8 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
 # Key dates
 
 * Submission deadline: **April 26th, 2023 (11:59 pm AOE)**
-* Acceptance notification: **June 1st, 2022**
-* Camera ready for accepted submissions: **June 15th, 2022**
+* Acceptance notification: **June 1st, 2023**
+* Camera ready for accepted submissions: **June 15th, 2023**
 
 # Keynote speakers and panelists
 

@@ -8,8 +8,8 @@ nav_order: 3
 # Key dates
 
 * Submission deadline: **April 26th, 2023 (11:59 pm AOE)**
-* Acceptance notification: **June 1st, 2022**
-* Camera ready for accepted submissions: **June 15th, 2022**
+* Acceptance notification: **June 1st, 2023**
+* Camera ready for accepted submissions: **June 15th, 2023**
 
 # Topics
 
