@@ -5,7 +5,7 @@ home_title: The 1st International Workshop on Knowlege-Based Compositional Gener
 subtitle: Held in conjunction with IJCAI 2023 
 nav_title: Home
 permalink: /
-description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neurscience with novel approaches such as representation learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
+description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 ---
 # Introduction
 
