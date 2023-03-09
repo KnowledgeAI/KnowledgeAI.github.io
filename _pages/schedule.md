@@ -1,19 +1,20 @@
 ---
 layout: page
 permalink: /schedule/
-title: schedule
+title: Schedule
 nav: true
 nav_order: 1
 ---
 TBA
 
 {% comment %}
-| **Time (local time)**{: .h5} |                                              **Event**{: .h5}                                              |
-| :--------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-|                8:45                |                                    **Introduction and opening remarks**                                    |
-|                9:00                |                                            **Keynote** (Xx): xx                                            |
-|                9:30                |                                       **Contributed talk** (xx): xx                                       |
-|               10:00               |                                     **Lunch Break and Poster session**                                     |
+
+| **Time (local time)**{: .h5} |           **Event**{: .h5}           |
+| :--------------------------------: | :----------------------------------------: |
+|                8:45                | **Introduction and opening remarks** |
+|                9:00                |         **Keynote** (Xx): xx         |
+|                9:30                |    **Contributed talk** (xx): xx    |
+|               10:00               |  **Lunch Break and Poster session**  |
 
 |
 |               15:00               |                                             **Poster session**                                             |
