@@ -17,7 +17,7 @@ We invite researchers in AI, machine learning, statistics, cognitive sciences an
 
 The goal of this workshop is to provide a platform for researchers to present their latest work on knowledge-based compositional generalization and to foster discussions on the challenges and opportunities in this area. We invite researchers in AI, machine learning, statistics, cognitive sciences and neuroscience to submit their papers, posters, and demonstrations on any topic related to knowledge-based compositional generalization, including but not limited to:
 
-- Representational learning, Meta-learning, Transfer learning for compositional generalization
+- Representational learning, Meta-learning, Transfer learning, Reinforcement learning , Self-supervised learning for compositional generalization
 - Reasoning, commonsense and knowledge representation for compositional generalization
 - Applications of compositional generalization such as foundation models, natural language
   processing, computer vision, and control systems

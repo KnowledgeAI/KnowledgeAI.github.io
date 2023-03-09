@@ -13,7 +13,7 @@ We are excited to announce the first International Workshop on Knowledge-Based C
 
 The ability to make **generalizations** based on different actions or concepts, known as systematic compositionality, is crucial for human learning and understanding. It allows us to understand and learn new things, even when we have limited experience. In human daily life, we often encounter problems that require us to be able to make generalizations based on compositions of different actions or concepts. This ability is critical for how we are able to learn and understand new things, even when we have limited experience. However, while there have been significant advances in the language capabilities of machines, they still struggle with generalization and require large amounts of training data. These machine learning techniques, like neural networks, have been criticized in the past for lacking systematic compositionality. For a recent survey on compositional generalization, please refer to: [https://arxiv.org/abs/2302.01067](https://arxiv.org/abs/2302.01067). Some topics of interest include but not limited to:
 
-- Representational learning, Meta-learning, Transfer learning for compositional generalization
+- Representational learning, Meta-learning, Transfer learning, Reinforcement learning , Self-supervised learning for compositional generalization
 - Reasoning, commonsense and knowledge representation for compositional generalization
 - Applications of compositional generalization such as foundation models, natural language
   processing, computer vision, and control systems
@@ -23,6 +23,7 @@ The ability to make **generalizations** based on different actions or concepts, 
 - Using external knowledge for efficient machine learning
 - Symbol grounding and Abstractions
 - Neuro-inspired AI
+- Compositionality in reinforcement learning
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
 
