@@ -30,20 +30,22 @@ The goal of this workshop is to provide a platform for researchers to present th
 - Learning compositional representations
 - Combining knowledge from multiple sources
 - Transfer learning and domain adaptation
+- Compositional generalization in foundation models
 - Compositional generalization in natural language understanding
 - Compositional generalization in reinforcement learning
 - Compositional generalization in knowledge representation and reasoning
 - Relational machine Learning
 - Using external knowledge for efficient machine learning
 - Symbol grounding and Abstractions
-- Benchmarks for compositional generalizationsubmission details
+- Benchmarks for compositional generalization
+- Data visualization to study compositionality
 
 We also welcome submissions from researchers working on related topics such as neural program synthesis, program
 induction, and concept learning.
 
 # instructions
 
-Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceedings published by Springer Nature (tentative).
+Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceeding.
 
 All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
 
