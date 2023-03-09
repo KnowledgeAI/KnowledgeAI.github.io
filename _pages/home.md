@@ -7,7 +7,8 @@ nav_title: Home
 permalink: /
 description: A workshop to bring together researchers who study the compositional generalization in AI, cognitive sciences and neuroscience with novel approaches such as representation learning, meta-learning, transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 ---
-<h5 style="text-align:center;"><a href="https://forms.gle/RGtpZXSkxgfkxMva6">Call for Reviewers [click here to apply]</a></h5>
+<h5 style="text-align:center;"><a href="https://forms.gle/RGtpZXSkxgfkxMva6">[Call for Reviewers]</a></h5>
+<h5 style="text-align:center;"><a href="https://knowledgeai.github.io/cfp/">[Call fro Papers]</a></h5>
 
 # Introduction
 
