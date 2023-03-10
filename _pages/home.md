@@ -57,7 +57,7 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
 
 <div class="row p-2 g-2">
       <div class="col-sm-3">
-      {% include people.html name="Baihan Lin" affiliation="Columbia University" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin.jpg" %}
+      {% include people.html name="Baihan Lin" affiliation="Columbia University" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin2.jpg" %}
       </div>
       <div class="col-sm-3">
   {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
