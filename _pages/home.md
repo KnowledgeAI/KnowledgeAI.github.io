@@ -48,6 +48,9 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
           {% include people.html name="Yoshua Bengio" affiliation="Mila - Quebec AI Institute" url="https://yoshuabengio.org" img="/assets/img/people/yoshua_bengio.jpg" %}
       </div>
       <div class="col-sm-3">
+          {% include people.html name="Sheila McIlraith" affiliation="University of Toronto" url="XX" img="/assets/img/people/sheila_mcilraith.jpg" %}
+      </div>
+      <div class="col-sm-3">
           {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/ai.jpg" %}
       </div>
   </div>
