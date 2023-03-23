@@ -33,7 +33,7 @@ The ability to make **generalizations** based on different actions or concepts, 
 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community from AI, cognitive sciences and neuroscience to discuss novel approaches such as representation learning, meta-learning transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 
-This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Cape Town, South Africa . The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Macao, S. A. R.. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # Key dates
 
@@ -49,6 +49,9 @@ This workshop will be an **in-person event** at [IJCAI 2023](https://ijcai-23.or
       </div>
       <div class="col-sm-3">
           {% include people.html name="Sheila McIlraith" affiliation="University of Toronto" url="http://www.cs.toronto.edu/~sheila" img="/assets/img/people/sheila_mcilraith.jpg" %}
+      </div>
+      <div class="col-sm-3">
+          {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
       </div>
       <div class="col-sm-3">
           {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/ai.jpg" %}
