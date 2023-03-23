@@ -51,10 +51,10 @@ This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org
           {% include people.html name="Sheila McIlraith" affiliation="University of Toronto" url="http://www.cs.toronto.edu/~sheila" img="/assets/img/people/sheila_mcilraith.jpg" %}
       </div>
       <div class="col-sm-3">
-          {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
+          {% include people.html name="Alex Pentland" affiliation="MIT Media Lab" url="https://www.media.mit.edu/people/sandy/overview/" img="/assets/img/people/alex_pentland.jpg" %}
       </div>
       <div class="col-sm-3">
-          {% include people.html name="TBA" affiliation="TBA" url="XX" img="/assets/img/people/ai.jpg" %}
+          {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
       </div>
   </div>
   <br>
