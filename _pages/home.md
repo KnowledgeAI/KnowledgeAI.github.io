@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-home_title: The 1st International Workshop on Knowlege-Based Compositional Generalization (KBCG)
+home_title: The 1st International Workshop on Knowledge-Based Compositional Generalization (KBCG)
 subtitle: Held in conjunction with IJCAI 2023 
 nav_title: Home
 permalink: /
