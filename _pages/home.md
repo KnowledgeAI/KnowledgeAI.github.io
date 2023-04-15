@@ -44,19 +44,19 @@ This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org
 # Keynote speakers and panelists
 
 <div class="row p-2 g-2">
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Yoshua Bengio" affiliation="Mila - Quebec AI Institute" url="https://yoshuabengio.org" img="/assets/img/people/yoshua_bengio.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Sheila McIlraith" affiliation="University of Toronto" url="http://www.cs.toronto.edu/~sheila" img="/assets/img/people/sheila_mcilraith.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Alex Pentland" affiliation="MIT Media Lab" url="https://www.media.mit.edu/people/sandy/overview/" img="/assets/img/people/alex_pentland.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
           {% include people.html name="Raphaël Féraud" affiliation="Orange Labs" url="https://scholar.google.fr/citations?user=4YwuLUMAAAAJ&hl=fr" img="/assets/img/people/raphael_feraud.jpg" %}
       </div>
   </div>
@@ -65,16 +65,16 @@ This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org
 # Organizing committee
 
 <div class="row p-2 g-2">
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
       {% include people.html name="Baihan Lin" affiliation="Columbia University" url="https://www.neuroinference.com/" img="/assets/img/people/baihan_lin2.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
   {% include people.html name="Djallel Bouneffouf" affiliation="IBM Research" url="hhttps://www.researchgate.net/profile/Djallel-Bouneffouf" img="/assets/img/people/djallel_bouneffouf.png" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
   {% include people.html name="Asim Munawar" affiliation="IBM Research" url="https://research.ibm.com/people/asim-munawar" img="/assets/img/people/asim_munawar.jpg" %}
       </div>
-      <div class="col-sm-3">
+      <div class="col-sm-3 p-1">
   {% include people.html name="Irina Rish" affiliation="Mila - Quebec AI Institute" url="https://irina-rish.com/" img="assets/img/people/irina_rish.jpg" %}
   </div>
   </div>
