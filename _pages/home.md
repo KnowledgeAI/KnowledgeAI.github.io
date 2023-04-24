@@ -37,7 +37,7 @@ This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org
 
 # Key dates
 
-* Submission deadline: **April 26th, 2023 (11:59 pm AOE)**
+* Submission deadline:  **~~April 26th, 2023~~ May 3rd, 2023 (11:59 pm AOE)**
 * Acceptance notification: **June 1st, 2023**
 * Camera ready for accepted submissions: **June 15th, 2023**
 

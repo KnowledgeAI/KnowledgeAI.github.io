@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # Key dates
 
-* Submission deadline: **April 26th, 2023 (11:59 pm AOE)**
+* Submission deadline:  **~~April 26th, 2023~~ May 3rd, 2023 (11:59 pm AOE)**
 * Acceptance notification: **June 1st, 2023**
 * Camera ready for accepted submissions: **June 15th, 2023**
 
@@ -32,12 +32,13 @@ The goal of this workshop is to provide a platform for researchers to present th
 - Benchmarks for compositional generalization
 - Data visualization to study compositionality
 
-We also welcome submissions from researchers working on related topics such as neural program synthesis, program
-induction, and concept learning.
+We also welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
 
 # Instructions
 
 Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceeding, unless opted out by the authors.
+
+The review will be double-blind, so please keep your submission(s) anonymous. The accepted papers have the option to be archival (i.e. included in the proceeding) or non-archival (i.e. only hosted in the website). The archival papers should be sufficiently original and not published in another venue or journal. The non-archival papers can be relevant work presented or published in another venue or journal.
 
 All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. There will be a poster session during the scheduled coffee breaks to facilitate and spark discussions amongst attendees.
 
