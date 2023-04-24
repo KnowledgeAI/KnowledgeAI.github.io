@@ -33,7 +33,7 @@ The ability to make **generalizations** based on different actions or concepts, 
 
 We believe that incorporating knowledge can potentially solve many of the most pressing challenges tackling the compositional generalization in deep learning today. The primary goal of this workshop is to facilitate community building: we hope to bring researchers together to consolidate this line of research and foster collaboration in the community from AI, cognitive sciences and neuroscience to discuss novel approaches such as representation learning, meta-learning transfer learning, reinforcement learning, self-supervised learning, foundation models, knowledge graph, data visualization and neuro-symbolic AI.
 
-This workshop will be held in conjunction with [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 19-25th 2023** at Macao, S. A. R.. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 21st, 2023** at Macao, S. A. R. and virtually. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
 # Key dates
 
