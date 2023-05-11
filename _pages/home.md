@@ -57,6 +57,9 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
           {% include people.html name="Francesca Rossi" affiliation="IBM Research" url="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2" img="/assets/img/people/francesca_rossi.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
+          {% include people.html name="Dileep George" affiliation="Google DeepMind" url="https://dileeplearning.github.io/" img="/assets/img/people/dileep_george.jpg" %}
+      </div>
+      <div class="col-sm-3 p-1">
           {% include people.html name="Raphaël Féraud" affiliation="Orange Labs" url="https://scholar.google.fr/citations?user=4YwuLUMAAAAJ&hl=fr" img="/assets/img/people/raphael_feraud.jpg" %}
       </div>
       <div class="col-sm-3 p-1">
