@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 | **Time (local time)**{: .h5} | **Event**{: .h5}      |
-| ---------------------------------- | --------------------------- |
+| :-----:   | :-----: |
 | 9-9:05                             | Introduction                |
 | 9:05-9:55                          | 45 Keynote + 5 QA + 5 spare |
 | 10 - 11:05                         | 12 min x 5 + 5 spare        |
@@ -20,3 +20,5 @@ nav_order: 1
 | 16:00 - 16:30                      | 30 Invited Talk + QA        |
 | 16:30 - 17:00                      | 30 Invited Talk + QA        |
 | 17:00 - 17:10                      | Closing                     |
+{: .table}
+{: .table-striped}

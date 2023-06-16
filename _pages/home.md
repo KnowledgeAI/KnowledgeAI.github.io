@@ -35,13 +35,13 @@ We believe that incorporating knowledge can potentially solve many of the most p
 
 This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https://ijcai-23.org/), taking place on **Aug 21st, 2023** at Macao, S. A. R. and virtually. The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
-# Key dates
+# Key Dates
 
-* Submission deadline:  **~~April 26th, 2023~~ <span style="color:red">May 10th, 2023</span> (11:59 pm AOE, FINAL EXTENSION)**
+* Submission deadline:  **~~April 26th, 2023~~ `<span style="color:red">`May 10th, 2023 (11:59 pm AOE, FINAL EXTENSION)**
 * Acceptance notification: **June 5st, 2023**
 * Camera ready for accepted submissions: **~~June 15th, 2023~~** **June 20th, 2023**
 
-# Keynote speakers and panelists
+# Keynote Speakers
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
@@ -68,7 +68,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
   </div>
   <br>
 
-# Organizing committee
+# Organizing Committee
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">
@@ -86,11 +86,11 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
   </div>
   <br>
 
-# Technical program committee (TPC)
+# Technical Program Committee (TPC)
 
 We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
 
-Jinqi Luo, 
+Jinqi Luo,
 Hariram Veeramani,
 Tianwei Xing,
 Adam Dahlgren,
