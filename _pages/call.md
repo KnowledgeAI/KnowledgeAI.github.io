@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # Key Dates
 
-* Submission deadline:  **~~April 26th, 2023~~ `<span style="color:red">`May 10th, 2023 (11:59 pm AOE, FINAL EXTENSION)**
+* Submission deadline:  **~~April 26th, 2023~~** **May 10th, 2023 (11:59 pm AOE, FINAL EXTENSION)**
 * Acceptance notification: **June 5st, 2023**
 * Camera ready for accepted submissions: **~~June 15th, 2023~~** **June 20th, 2023**
 
