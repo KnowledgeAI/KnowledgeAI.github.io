@@ -39,7 +39,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
 
 * Submission deadline:  **~~April 26th, 2023~~ <span style="color:red">May 10th, 2023</span> (11:59 pm AOE, FINAL EXTENSION)**
 * Acceptance notification: **June 5st, 2023**
-* Camera ready for accepted submissions: **June 15th, 2023**
+* Camera ready for accepted submissions: **~~June 15th, 2023~~** **June 20th, 2023**
 
 # Keynote speakers and panelists
 
@@ -86,10 +86,36 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
   </div>
   <br>
 
+# Technical program committee (TPC)
+
+We would like to express our sincere gratitude to our technical program committee for generously volunteering their time and expertise to review submissions for our workshop. Their valuable contributions have been instrumental in ensuring the quality and rigor of the workshop's program. We deeply appreciate their dedication and commitment to our workshop's success:
+
+Jinqi Luo, 
+Hariram Veeramani,
+Tianwei Xing,
+Adam Dahlgren,
+Bo Xiong,
+Emanuele Sansone,
+Mats Leon Richter,
+Peter Belcak,
+Tim Klinger,
+Yuwei Sun,
+Bo Dong,
+Tarun Kumar,
+Walid S. Saba,
+Yajie Bao,
+Aayush Mudgal,
+Daiki Kimura,
+Iordanis Fostiropoulos,
+Mariya Hendriksen,
+Vinutha Magal Shreenath
+
 # Contact
 
 For any questions, please contact us at [kbcg.workshop@gmail.com](mailto:kbcg.workshop@gmail.com).
 
 # Sponsors
 
-* IBM
+* IBM Research
+* Columbia University
+* Mila - Quebec AI Institute

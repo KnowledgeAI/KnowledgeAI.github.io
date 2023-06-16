@@ -9,7 +9,7 @@ nav_order: 3
 
 * Submission deadline:  **~~April 26th, 2023~~ <span style="color:red">May 10th, 2023</span> (11:59 pm AOE, FINAL EXTENSION)**
 * Acceptance notification: **June 5st, 2023**
-* Camera ready for accepted submissions: **June 15th, 2023**
+* Camera ready for accepted submissions: **~~June 15th, 2023~~** **June 20th, 2023**
 
 # Topics
 
@@ -34,7 +34,7 @@ The goal of this workshop is to provide a platform for researchers to present th
 
 We also welcome submissions from researchers working on related topics such as neural program synthesis, program induction, and concept learning.
 
-# Instructions
+# Submission Instructions
 
 Submissions should be in the form of a 7-page papers (+2-page references) for proceeding articles or a 2-page abstract for posters/demonstrations, and should be formatted according to the conference’s guidelines (https://www.ijcai.org/authors_kit). Accepted papers will be presented at the workshop and included in a workshop proceeding, unless opted out by the authors.
 
@@ -44,7 +44,15 @@ All accepted papers and extended abstracts will be presented as posters. The pro
 
 We look forward to your submissions and to seeing you at the workshop. If you have any questions, please feel free to contact the organizing committee.
 
-The submission website is on **[OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2023/Workshop/KBCG)**. Camera-ready versions are due by **June 15, 2023**, and will be posted on the workshop website.
+The submission website is on **[OpenReview](https://openreview.net/group?id=ijcai.org/IJCAI/2023/Workshop/KBCG)**. Camera-ready versions are due by **June 20, 2023**, and will be posted on the workshop website.
+
+# Camera-Ready Instructions
+
+To streamline the publication process, we have implemented a two-step approach for camera-ready publications.
+
+Firstly, all accepted papers will be hosted on our website via OpenReview during the conference period. To ensure inclusion in this phase, please revise your papers based on the reviewers' comments, include your author affiliations, and adhere to the IJCAI format. The deadline for uploading this version to OpenReview is **June 20, 2023**.
+
+Secondly, we are in the final stages of negotiations with a publisher for an official post-conference proceeding. We will provide detailed information on this archival option in the near future. If you choose to participate in the proceeding, your papers will need to be prepared according to the formatting guidelines provided by the respective publishers. Instructions and the deadline for this proceeding option will be announced soon.
 
 # Questions?
 
