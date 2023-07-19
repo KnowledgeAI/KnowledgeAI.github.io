@@ -9,7 +9,7 @@ nav_order: 1
 | **Time (local time)**{: .h5} |               **Event**{: .h5}               |
 | :--------------------------------: | :-------------------------------------------------: |
 |               9-9:05               |                    Introduction                    |
-|             9:05-9:55             | 45 Keynote + 5 QA + (confirmed: Dr. Yoshua Bengio) |
+|             9:05-9:55             | 45 Keynote + 5 QA (confirmed: Dr. Yoshua Bengio) |
 |             10 - 11:05             |                12 min x 5 + 5 spare                |
 |            11:10-12:00            |                  45 Keynote + 5 QA                  |
 |            12:00-13:00            |                     lunch break                     |
