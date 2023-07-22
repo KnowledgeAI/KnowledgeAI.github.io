@@ -41,7 +41,7 @@ This workshop will be a hybrid event held in conjunction with [IJCAI 2023](https
 * Acceptance notification: **June 5st, 2023**
 * Camera ready for accepted submissions: **~~June 15th, 2023~~** **June 20th, 2023**
 
-# Keynote Speakers
+# Keynote and Invited Speakers
 
 <div class="row p-2 g-2">
       <div class="col-sm-3 p-1">

@@ -13,7 +13,7 @@ nav_order: 1
 |             10 - 11:05             |                12 min x 5 + 5 spare                |
 |            11:10-12:00            |                  45 Keynote + 5 QA                  |
 |            12:00-13:00            |                     lunch break                     |
-|            13:00-13:50            |             45 Keynote + 5 QA + 5 spare             |
+|            13:00-13:50            |             45 Keynote + 5 QA            |
 |           13:55 - 15:00           |                15 min x 4 + 5 spare                |
 |           15:00 - 15:30           |                   Poster session                   |
 |           15:30 - 16:00           |                30 Invited Talk + QA                |
