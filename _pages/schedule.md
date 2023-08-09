@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 | **Time (local time)**{: .h5} |  **Event**{: .h5} | **Speaker**{: .h5} |
-| :--------------------------------: | :---------------------------------: | :---------------------------------: |
+| :-------------------------------- | :--------------------------------- | :--------------------------------- |
 |  9-9:05  |   Introduction   |
 |  9:05-9:55 | Keynote | Yoshua Bengio |
 | 9:55-10:10 | A Confidence-based Multipath Neural-symbolic Approach for Visual Question Answering | Yajie Bao, Tianwei Xing, and Xun Chen |
