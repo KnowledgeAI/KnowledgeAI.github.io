@@ -6,13 +6,16 @@ nav: true
 nav_order: 1
 ---
 
+Link for virtual participation: https://ibm.webex.com/meet/asim1
+
+
 | **Time (local time)**{: .h5} |  **Event**{: .h5} | **Speaker**{: .h5} |
 | :-------------------------------- | :--------------------------------- | :--------------------------------- |
 |  9-9:05  |   Introduction   |
 |  9:05-9:55 | **Keynote** | Yoshua Bengio |
-| 9:55-10:10 | Contributed Talk: A Confidence-based Multipath Neural-symbolic Approach for Visual Question Answering | Yajie Bao, Tianwei Xing, and Xun Chen |
+| 9:55-10:10 | Contributed Talk: A Confidence-based Multipath Neural-symbolic Approach for Visual Question Answering | Yajie Bao, Tianwei Xing, and Xun Chen (virtual) |
 | 10:10-10:25| Contributed Talk: Model-free Causal Reinforcement Learning with Causal Diagrams| Junkyu Lee, Tian Gao, Elliot Nelson, Miao Liu, and Debarun Bhattacharjya |
-| 10:25-10:40 | Contributed Talk: Pre-Trained Embeddings for Enhancing Multi-Hop Reasoning | Martin Drancé, Fleur Mougin, Akka Zemmari, and Gayo Diallo | 
+| 10:25-10:40 | Contributed Talk: Pre-Trained Embeddings for Enhancing Multi-Hop Reasoning | Martin Drancé, Fleur Mougin, Akka Zemmari, and Gayo Diallo (virtual) | 
 | 10:40-10:55 | Contributed Talk: Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning | Sagar Srinivas Sakhinana, Krishna Sai Sudhir Aripirala, Shivam Gupta, and Venkataramana Runkana |
 | 10:55-11:10 | Contributed Talk: Probing Reasoning of Language Models with Inductive In-Context Learning | Iordanis Fostiropoulos, and Laurent Itti |
 | 11:10-12:00 | **Keynote** | Sheila McIlraith |  
