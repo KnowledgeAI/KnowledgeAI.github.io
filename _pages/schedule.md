@@ -24,8 +24,8 @@ Link for virtual participation: https://ibm.webex.com/meet/asim1
 | 12:30-14:00 | Lunch Break |  | 
 | 14:00-14:30 | **Invited Talk** | Raphaël Féraud | 
 | 14:30-15:00 | **Invited Talk** | Francesca Rossi | 
-| 15:00-15:30 | Contributed Talk: ComplexWorld: A Large Language Model-based Interactive Fiction Learning Environment for Text-based Reinforcement Learning Agents | Shreyas Basavatia, Shivam Ratnakar, and Keerthiram Murugesan | 
-| 15:30-16:00 | Contributed Talk: Learning Compositional Hierarchies using Curriculum Learning for Compositional Generalization | Adam Dahlgren | 
+| 15:00-15:15 | Contributed Talk: ComplexWorld: A Large Language Model-based Interactive Fiction Learning Environment for Text-based Reinforcement Learning Agents | Shreyas Basavatia, Shivam Ratnakar, and Keerthiram Murugesan | 
+| 15:15-15:30 | Contributed Talk: Learning Compositional Hierarchies using Curriculum Learning for Compositional Generalization | Adam Dahlgren | 
 | 15:30-16:00 | Poster Session + Coffee Break | | 
 | 16:30-17:00 | **Invited Talk** | Dileep George  | 
 | 17:00-17:30 | **Invited Talk** | Alexander Gray | 
