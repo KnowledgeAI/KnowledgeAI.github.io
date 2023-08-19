@@ -22,7 +22,7 @@ nav_order: 1
 | 12:15-12:30 | Contributed Talk: Probing Reasoning of Language Models with Inductive In-Context Learning | Iordanis Fostiropoulos, and Laurent Itti |
 | 12:30-12:45 | Contributed Talk: Compositional Program Generation for Compositional Generalization | Tim Klinger, Qi Liu, Maxwell Crouse, Soham Dan, Parikshit Ram, and Alexander G. Gray | 
 | 12:45-14:00 | Lunch Break |  | 
-| 14:00-14:30 | **Invited Talk** | Raphaël Féraud | 
+| 14:00-14:30 | **Invited Talk**: Compositional Bandits | Raphaël Féraud | 
 | 14:30-15:00 | **Invited Talk** | Francesca Rossi | 
 | 15:00-15:15 | Contributed Talk: ComplexWorld: A Large Language Model-based Interactive Fiction Learning Environment for Text-based Reinforcement Learning Agents | Shreyas Basavatia, Shivam Ratnakar, and Keerthiram Murugesan | 
 | 15:15-15:30 | Contributed Talk: Learning Compositional Hierarchies using Curriculum Learning for Compositional Generalization | Adam Dahlgren | 
