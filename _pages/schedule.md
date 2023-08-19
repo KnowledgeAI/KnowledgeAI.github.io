@@ -6,7 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-Link for virtual participation: https://ibm.webex.com/meet/asim1
 
 
 | **Time (local time)**{: .h5} |  **Event**{: .h5} | **Speaker**{: .h5} |
